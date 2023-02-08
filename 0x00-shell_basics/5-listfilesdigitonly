@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -a --group-directories-first
-
+ls -ln
